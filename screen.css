@@ -70,11 +70,10 @@ body {
 }
 
 section {
-    box-sizing: content-box;
     background: #fff;
     margin-top: 2.25em;
     padding: 1.5rem;
-    width: 17.375rem;
+    width: 20.375rem;
     border-radius: 1rem;
     border: 2px solid var(--black);
     box-shadow: 8px 8px 0 var(--black);
@@ -157,7 +156,7 @@ footer img {
 
 @media(min-width: 24rem) {
     section {
-        width: 21rem;
+        width: 24rem;
     }
 
     article main {
